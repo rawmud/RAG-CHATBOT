@@ -1,0 +1,16 @@
+#huggingface_hub
+langchain-openai
+#langchain_huggingface 
+langchain-chroma
+beautifulsoup4
+scipy
+langchain_text_splitters
+pypdf
+sentence_transformers
+transformers
+flask
+flask-socketio
+langchain-community
+langchain
+eventlet
+gunicorn
